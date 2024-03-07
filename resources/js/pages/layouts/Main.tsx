@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import Menu from './Menu';
+import React, { useState } from 'react'
 
 const Sidebar = () => {
     const [isKinerjaAnggaranOpened, setIsKinerjaAnggaranOpened] = useState(false);
